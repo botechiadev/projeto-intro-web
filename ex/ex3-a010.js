@@ -45,6 +45,6 @@ const ataque3 = {
 
 pokemon2.ataques.push(ataque3);
 
-console.log(polemon1, " ", pokemon2)
+console.log(pokemon1, " ", pokemon2)
 
 

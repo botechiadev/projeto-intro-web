@@ -6,7 +6,7 @@ Esse é o projeto de introdução aos fundamentos do desenvolvimento Web. Aqui, 
 - Operadores
 - Strings
 - Arrays
-- Objetos
+- Objetos✅
 - Condicionais
 - Laços
 - Funções
